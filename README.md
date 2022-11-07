@@ -38,4 +38,4 @@ Project status: **Finished**
 This project was part of one of the Applied Machine Learning Case Studies provided by AppliedAIcourse.
 
 ## Contact
-Feel free to contact me, send a mail to **akashnaskar.pgec@gmail.com**
+Feel free to contact me, send a mail to **c7wintersoldier@gmail.com**
